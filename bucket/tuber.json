@@ -1,19 +1,19 @@
 {
-    "version": "1.0.4",
+    "version": "1.0.8",
     "architecture": {
         "32bit": {
-            "url": "http://github.com/freshly/tuber/releases/download/v1.0.4/tuber_1.0.4_Windows_i386.zip",
+            "url": "http://github.com/freshly/tuber/releases/download/v1.0.8/tuber_1.0.8_Windows_i386.zip",
             "bin": [
                 "tuber.exe"
             ],
-            "hash": "e7c85e2b755bf28246ff9916e3e854584f828d0ac1ddd21cf7d06f26d0349732"
+            "hash": "f8957381ccf4caf2a5e65ff99a99a4be606538cdc7ccf1c7501acd635675fc4a"
         },
         "64bit": {
-            "url": "http://github.com/freshly/tuber/releases/download/v1.0.4/tuber_1.0.4_Windows_x86_64.zip",
+            "url": "http://github.com/freshly/tuber/releases/download/v1.0.8/tuber_1.0.8_Windows_x86_64.zip",
             "bin": [
                 "tuber.exe"
             ],
-            "hash": "4e8be0a4b9b4542789efc689eb4577dca784ea503937ca470b9d51493293d887"
+            "hash": "729dc41e8df89cef0b92b127eb54a99c6c89e14dc47a1dfe2e8eb60e9a0409d9"
         }
     },
     "homepage": "https://github.com/Freshly/tuber",
